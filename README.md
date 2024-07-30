@@ -2,7 +2,7 @@
 - 👀 I’m interested in EVERYTHING..
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on Aİ PROJECT
-- 📫 How to reach me YOU SUPPOSTHU ASK
+- 📫 How to reach me YOU SUPPOSE THE ASK
 
 <!---
 danddante/danddante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
