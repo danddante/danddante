@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on Aİ PROJECT
 - 📫 How to reach me YOU SUPPOSTHU ASK
-- 😄 Pronouns: ...GAY
-- ⚡ Fun fact: ... IM NOT GAY
 
 <!---
 danddante/danddante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
